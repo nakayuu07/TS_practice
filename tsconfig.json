@@ -62,6 +62,7 @@
     "outDir": "dist"      /* Enables experimental support for emitting type metadata for decorators. */
   },
   "include": [
-    "phase_2"
+    "phase_2(basic_typescript)",
+    "phase_3(type_interface)"
   ]
 }
